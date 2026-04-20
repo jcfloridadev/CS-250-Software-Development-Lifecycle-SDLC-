@@ -11,13 +11,14 @@ This repository showcases my work for CS-250, focusing on the Software Developme
 
 ## Contents
 This repository may include:
-- System design diagrams (UML, use case, sequence diagrams)
+- System design (src, JAR)
 - Project documentation and analysis
 - Agile planning artifacts (user stories, sprint planning)
 - Course assignments and project deliverables  
 
 ## Tools & Technologies
-- Lucidchart (System Design Diagrams)  
+- Java
+- Eclipse IDE
 - Microsoft Word / PDF Documentation  
 - GitHub (Version Control & Portfolio)  
 
