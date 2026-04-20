@@ -25,9 +25,6 @@ This repository may include:
 Justin Carlo Florida  
 Computer Science Student | Software Engineering
 
-## Notes
-This repository is intended for educational and portfolio purposes.
-
 ## Reflection
 
 ### How do I interpret user needs and implement them into a program? How do user stories help?
